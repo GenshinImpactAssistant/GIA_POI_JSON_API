@@ -1,5 +1,53 @@
 [
   {
+    "areaId": 5,
+    "code": "C:MD",
+    "content": "蒙德",
+    "hiddenFlag": 0,
+    "iconTag": "",
+    "isFinal": false,
+    "name": "蒙德",
+    "parentId": -1,
+    "sortIndex": 50,
+    "version": 1
+  },
+  {
+    "areaId": 1,
+    "code": "C:LY",
+    "content": "璃月",
+    "hiddenFlag": 0,
+    "iconTag": "",
+    "isFinal": false,
+    "name": "璃月",
+    "parentId": -1,
+    "sortIndex": 49,
+    "version": 1
+  },
+  {
+    "areaId": 11,
+    "code": "C:DQ",
+    "content": "稻妻",
+    "hiddenFlag": 0,
+    "iconTag": "",
+    "isFinal": false,
+    "name": "稻妻",
+    "parentId": -1,
+    "sortIndex": 40,
+    "version": 1
+  },
+  {
+    "areaId": 18,
+    "code": "C:XM",
+    "content": "须弥",
+    "hiddenFlag": 0,
+    "iconTag": "",
+    "isFinal": false,
+    "name": "须弥",
+    "parentId": -1,
+    "sortIndex": 39,
+    "version": 2
+  },
+  {
     "areaId": 6,
     "code": "A:MD:MENGDE",
     "content": "蒙德",
@@ -22,54 +70,6 @@
     "parentId": 5,
     "sortIndex": 1,
     "version": 1
-  },
-  {
-    "areaId": 1,
-    "code": "C:LY",
-    "content": "璃月",
-    "hiddenFlag": 0,
-    "iconTag": "",
-    "isFinal": false,
-    "name": "璃月",
-    "parentId": -1,
-    "sortIndex": 0,
-    "version": 1
-  },
-  {
-    "areaId": 5,
-    "code": "C:MD",
-    "content": "蒙德",
-    "hiddenFlag": 0,
-    "iconTag": "",
-    "isFinal": false,
-    "name": "蒙德",
-    "parentId": -1,
-    "sortIndex": 0,
-    "version": 1
-  },
-  {
-    "areaId": 11,
-    "code": "C:DQ",
-    "content": "稻妻",
-    "hiddenFlag": 0,
-    "iconTag": "",
-    "isFinal": false,
-    "name": "稻妻",
-    "parentId": -1,
-    "sortIndex": 0,
-    "version": 1
-  },
-  {
-    "areaId": 18,
-    "code": "C:XM",
-    "content": "须弥",
-    "hiddenFlag": 0,
-    "iconTag": "",
-    "isFinal": false,
-    "name": "须弥",
-    "parentId": -1,
-    "sortIndex": 0,
-    "version": 2
   },
   {
     "areaId": 2,
