@@ -2,11 +2,11 @@
   {
     "areaId": 5,
     "code": "C:MD",
-    "content": "蒙德",
+    "content": "Mondstadt",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": false,
-    "name": "蒙德",
+    "name": "Mondstadt",
     "parentId": -1,
     "sortIndex": 50,
     "version": 1
@@ -14,11 +14,11 @@
   {
     "areaId": 1,
     "code": "C:LY",
-    "content": "璃月",
+    "content": "Liyue",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": false,
-    "name": "璃月",
+    "name": "Liyue",
     "parentId": -1,
     "sortIndex": 49,
     "version": 1
@@ -26,11 +26,11 @@
   {
     "areaId": 11,
     "code": "C:DQ",
-    "content": "稻妻",
+    "content": "Inazuma",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": false,
-    "name": "稻妻",
+    "name": "Inazuma",
     "parentId": -1,
     "sortIndex": 40,
     "version": 1
@@ -38,11 +38,11 @@
   {
     "areaId": 18,
     "code": "C:XM",
-    "content": "须弥",
+    "content": "Sumeru",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": false,
-    "name": "须弥",
+    "name": "Sumeru",
     "parentId": -1,
     "sortIndex": 39,
     "version": 2
@@ -50,11 +50,11 @@
   {
     "areaId": 6,
     "code": "A:MD:MENGDE",
-    "content": "蒙德",
+    "content": "Mondstadt",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "蒙德",
+    "name": "Mondstadt",
     "parentId": 5,
     "sortIndex": 2,
     "version": 1
@@ -62,11 +62,11 @@
   {
     "areaId": 17,
     "code": "A:MD:XUESHAN",
-    "content": "龙脊雪山",
+    "content": "Dragonspine",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "龙脊雪山",
+    "name": "Dragonspine",
     "parentId": 5,
     "sortIndex": 1,
     "version": 1
@@ -74,11 +74,11 @@
   {
     "areaId": 2,
     "code": "A:LY:LIYUE",
-    "content": "璃月",
+    "content": "Liyue",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "璃月",
+    "name": "Liyue",
     "parentId": 1,
     "sortIndex": -1,
     "version": 1
@@ -86,11 +86,11 @@
   {
     "areaId": 3,
     "code": "A:LY:CENGYAN",
-    "content": "层岩巨渊",
+    "content": "The Chasm",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "层岩巨渊",
+    "name": "The Chasm",
     "parentId": 1,
     "sortIndex": -2,
     "version": 1
@@ -98,11 +98,11 @@
   {
     "areaId": 4,
     "code": "A:LY:CENGYAN_UG",
-    "content": "地下矿区",
+    "content": "Underground Mines",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "地下矿区",
+    "name": "Underground Mines",
     "parentId": 1,
     "sortIndex": -3,
     "version": 1
@@ -110,11 +110,11 @@
   {
     "areaId": 12,
     "code": "A:DQ:1",
-    "content": "稻妻",
+    "content": "Inazuma",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "稻妻",
+    "name": "Inazuma",
     "parentId": 11,
     "sortIndex": -4,
     "version": 1
@@ -122,11 +122,11 @@
   {
     "areaId": 13,
     "code": "A:DQ:2",
-    "content": "稻妻2",
+    "content": "Inazuma II",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "稻妻2",
+    "name": "Inazuma II",
     "parentId": 11,
     "sortIndex": -5,
     "version": 1
@@ -134,11 +134,11 @@
   {
     "areaId": 14,
     "code": "A:DQ:HEGUAN",
-    "content": "鹤观",
+    "content": "Tsurumi Island",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "鹤观",
+    "name": "Tsurumi Island",
     "parentId": 11,
     "sortIndex": -6,
     "version": 1
@@ -146,11 +146,11 @@
   {
     "areaId": 15,
     "code": "A:DQ:YUANXIAGONG",
-    "content": "渊下宫",
+    "content": "Enkanomiya",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "渊下宫",
+    "name": "Enkanomiya",
     "parentId": 11,
     "sortIndex": -7,
     "version": 1
@@ -158,11 +158,11 @@
   {
     "areaId": 16,
     "code": "A:DQ:SANJIE",
-    "content": "三界路飨祭",
+    "content": "Three Realms Gateway Offering",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "三界路飨祭",
+    "name": "Three Realms Gateway Offering",
     "parentId": 11,
     "sortIndex": -8,
     "version": 1
@@ -194,11 +194,11 @@
   {
     "areaId": 22,
     "code": "A:XM:DESERT2",
-    "content": "千壑沙地",
+    "content": "Desert of Hadramaveth",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "千壑沙地",
+    "name": "Desert of Hadramaveth",
     "parentId": 18,
     "sortIndex": -11,
     "version": 2
@@ -206,11 +206,11 @@
   {
     "areaId": 23,
     "code": "A:XM:DESERT3",
-    "content": "苍漠囿土",
+    "content": "Girdle of the Sands",
     "hiddenFlag": 0,
     "iconTag": "",
     "isFinal": true,
-    "name": "苍漠囿土",
+    "name": "Girdle of the Sands",
     "parentId": 18,
     "sortIndex": -12,
     "version": 5
